@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of divers gathered churches, and others wel affected, in and about the city of London, for declaring the ordinance of the Lords and Commons, for punishing blasphemies and heresies, null and void. Also, a seasonable premonition to the Churches of God in the countrey, that acknowledge the holy scriptures the only word of faith, and believe that God so loved the world, that he gave his only begotten son, that whosoever believeth in him should not dye, but have everlasting life. More especially to the thirty congregations, whose faith and practise is extant. Printed for William Larner, at the Black-More neer Fleet-Bridge. 1651.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90574</idno><idno type="EEBO-CITATION">99865728</idno>
+  <idno type="VID">117977</idno>
+  <idno type="EEBO-PROQUEST">2240941724</idno>
+  
+            <idno type="STC">Wing P1763</idno>
+            <idno type="STC">Thomason E856_3</idno>
+            <idno type="STC">ESTC R206609</idno>
+            <idno type="STC">ESTC R206610</idno>
+            <idno type="PROQUEST">99865728</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865728e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117977)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E856[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of divers gathered churches, and others wel affected, in and about the city of London, for declaring the ordinance of the Lords and Commons, for punishing blasphemies and heresies, null and void. Also, a seasonable premonition to the Churches of God in the countrey, that acknowledge the holy scriptures the only word of faith, and believe that God so loved the world, that he gave his only begotten son, that whosoever believeth in him should not dye, but have everlasting life. More especially to the thirty congregations, whose faith and practise is extant. Printed for William Larner, at the Black-More neer Fleet-Bridge. 1651.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold in Pauls Church-Yard.,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Blasphemy --  Early works to 1800.</term>
+               <term type="topical_term">Heresy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117977:1"/>
+            <p>THE PETITION Of Divers Gathered Churches, And others wel affected, in and about the City of LONDON, For declaring the Ordinance of the Lords And Commons, for punishing Blasphemies and Heresies, Null and Void.</p>
+            <p>Also, a seasonable Premonition to the Churches of God in the Countrey, that acknowledge the Holy Scriptures the on<g ref="char:EOLhyphen"/>ly Word of Faith, and believe that <hi>God so loved the World, that he gave his only begotten Son, that whosoever believeth in him should not dye, but have everlasting life.</hi>
+            </p>
+            <p>More especially to the thirty Congregations, whose Faith and practise is extant. Printed for <hi>William Larner,</hi> at the Black-More neer <hi>Fleet-Bridge.</hi> 1651.</p>
+            <p>
+               <hi>LONDON;</hi> Printed, and are to be sold in <hi>Pauls Church-Yard.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:117977:2"/>
+            <pb n="1" facs="tcp:117977:2"/>
+            <head>TO His Highness the Lord Protector of the Common-wealth of <hi>England Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland, &amp;c.</hi>
+            </head>
+            <argument>
+               <p>The Humble Petition of divers Gathered Churches, and o<g ref="char:EOLhyphen"/>thers wel affected, in and about the City of <hi>London.</hi>
+               </p>
+            </argument>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the hand of the most high God hath been lif<g ref="char:EOLhyphen"/>ted up, and his Arm made bare in our Land, to the amazement of Nations; that he hath caused our Generation to travel in Blood, and his Saints to breath out their souls for the appearance of his power and glory amongst them, and hath been as ready to hear, as to prepare their hearts: your Highness having been an eminent Instrument, both as a man and Christian, in the midst of these dispensations, <hi>have them so deeply written upon your heart, that would you</hi> (we are perswaded) <hi>you could not blot them out:</hi> What herein was the end of God, and what was our end, you of men have given the best account, who have told us what we also can assert; <hi>That Religion was not the thing at first contended for, but God brought it to that issue at last, and gave it to us by way of Redundancy,</hi> and it <hi>proved to be that which
+<pb n="2" facs="tcp:117977:3"/> was most dear to us, so that all the Moneys of the Nation would not have tempted us to fight upon such an account as we have, if we had not had hopes of liberty of Religion, both for our selves, and the ge<g ref="char:EOLhyphen"/>nerations to come:</hi> It was the hope of that which in the late change of Government gave us comfort, it was that which drew upon your Highness the heavie burthen of our Prote<g ref="char:EOLhyphen"/>ction; for in the 36, 37, 38. Articles of the instrument of Go<g ref="char:EOLhyphen"/>vernment, we judge <hi>there is a iust liber<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y provided for the people of God, and protection in the profession of the faith and exercise of their Religion, for the most mistaken Christian that shall desire to leade a peaceable and quiet life in Godliness and honesty.</hi> But ala<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! what wil it avail us to have good Laws, if in the mean time the oppressing &amp; bad (though abrogated Laws) shall by in<g ref="char:EOLhyphen"/>feriour Magistrates be stil put in execution against us, and we have against them no remedy, for many of us know and o<g ref="char:EOLhyphen"/>thers are certainly informed, that of late one Mr. <hi>Iohn Biddle,</hi> (a man, though differing from most of us in many great mat<g ref="char:EOLhyphen"/>ters of faith, yet by reason of his diligent study in the holy Scripture, sober and peaceable conversation, which some of us have intimate good knowledg of, we cannot but judge eve<g ref="char:EOLhyphen"/>ry way capable of the liberty promised in the Government) hath bin committed, and is now deteined in Prison without Bayle or Mainprise at Newgate, upon the pretence of the breach of an Ordinance of the Lords and Commons for pu<g ref="char:EOLhyphen"/>nishing Blasphemies and Heresies 1648. which Ordinance (if it be in force) we humbly conceive, prostrateth us all more or less to punishment, and consequently destroies the Govern<g ref="char:EOLhyphen"/>ment, and frustrateth us of the fruit of that liberty, whose seed hath been sown in blood.</p>
+            <q>We do therefore humbly pray that your Highness▪ would be pleased to consider the Premises, and not only by fur<g ref="char:EOLhyphen"/>ther declaring the said Ordinance Null and Void (except as in the Instrument of Government) vaca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e all procee<g ref="char:EOLhyphen"/>dings
+<pb n="3" facs="tcp:117977:3"/> that are or may bee thereupon, against the said Mr. <hi>Biddle,</hi> and restore him to his liberty. But also upon pe<g ref="char:EOLhyphen"/>nalty, forbidding all Magistrates to do any thing in the exe<g ref="char:EOLhyphen"/>cution thereof contrary to the true intent of the liberty afore<g ref="char:EOLhyphen"/>said, and your Petitioners shall pray.</q>
+            <div type="letter">
+               <opener>
+                  <salute>Dearly beloved Brethren,</salute>
+               </opener>
+               <p>OUr dear Lord wel knowing that it much conduced to the benefit of his Disciples, that they should fore<g ref="char:EOLhyphen"/>know the tribulations that would befall them after his departure; he forewarn'd them, saying, <hi>They shall put you out of the Synagogues; yea, the time commeth, that whosoever killeth you, will think he doth God service,</hi> John 16. 2. <hi>But these things have I told you, that when the time shall come, ye may remember that I told you of them.</hi> Ver. 4. And shall we (seeing affliction and persecution hanging over yours, and our own heads) hold our peace? The example of our Lord, love and duty to him &amp; you, bindeth us to give you notice of approaching evil; yea, Providence having placed us near the Fountain, whence this Bitter Water begins already to bubble out, and the streams whereof have imbitter'd the peace of some; should we not be in some measure guilty if we should not call upon you to prepare your selves, either by prevention or patience? we had thought that by the casting in of this humble address, we might have stopped the further issues, and dryed up that stream: but we find our endeavours unsuccessful, and by try<g ref="char:EOLhyphen"/>ing discover a mighty spring, the Fountain wil not be hindred the streams are like to encrease; we hoped that the wel<g ref="char:EOLhyphen"/>spring of our former afflicton and oppression for conscience, being dryed up, we should now have enjoyed a jubilee of rest and liberty to worship God, and prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss faith according to
+<pb n="4" facs="tcp:117977:4"/> our perswasions, and that the most <hi>mistaken Christian,</hi> being sober and peaceable, should have been protected; but in stead of that, we find, that even the dregs of the cup of the last conscience-oppression is prepar'd for us to drink, what else meaneth the putting in execution that bloody▪ Ordinance the line whereof, nothing but the meer pleasure of men in power can hinder from being stretched over our lives and liberties? And wil not the severity of the said Ordinance fall first upon you, who have begun already to reject the Tradi<g ref="char:EOLhyphen"/>tions of men, the unscriptural words &amp; notions of <hi>Trinity in Unity, &amp; Unity in Trinity, of three persons in one essence, of the hypo<g ref="char:EOLhyphen"/>statical Union of two natures in one person,</hi> &amp;c. and to profess your faith in the form of sound words that are found in the holy Scriptures; what else meaneth his Highness leaving you and us out of that liberty he pleads for to Godly men of different judgments? Speech <hi>Ian.</hi> 22. 1654. pag. 17, 18. for they are men of the same <hi>Faith with them they call the Orthodox Mi<g ref="char:EOLhyphen"/>nistry,</hi> whom he also describes by the the term, <hi>Species of Pro<g ref="char:EOLhyphen"/>testants,</hi> or, <hi>sound in the faith,</hi> (which we are not accounted to be) whom he intercedes for. And so he lately interpreted the words of the Instrument of Government, Artic. 37. <hi>By faith in Iesus Christ</hi> (saith he) we meant such faith as the ge<g ref="char:EOLhyphen"/>nerality of Protestants have: And what doth the speech of one of his Favourites (rejecting us from the name of Chur<g ref="char:EOLhyphen"/>ches) import less than persecution, compar'd with what himself said, that if we took care of keeping our societies clean by excommunication, he also must take the like care of the Common-wealth.</p>
+               <p>Ah! Our Brethren, did we not hope that the great effusi<g ref="char:EOLhyphen"/>on of blood in our Land, for the redemption of the Saints from the bands of Antichristian slavery, would at least have had this glorious effect, that we might not have been afraid to have sought out, and having discover'd to
+<pb n="5" facs="tcp:117977:4"/> have professed any measure of that divine light, which long Apostacle, as wel in Doctrine, as worship and discipline, had hid from our eyes: But it seemeth the time is not yet come, when <hi>he will make</hi> (Z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on) <hi>her Officers peace, and her Exactors righteousness, violence shall no more be heard in thy Land, wasting nor destruction within thy borders,</hi> Isa. 60. 17, 18. <q rend="margQuotes">When the Sons of the stranger shall no more afflict, but Kings shall be thy Nursing Fathers, and Queens thy Nur<g ref="char:EOLhyphen"/>sing Mother, <bibl>
+                        <hi>Isa.</hi> 49. 23.</bibl>
+                  </q> O cruel Fathers that kil the chil<g ref="char:EOLhyphen"/>dren, because they have not the understanding of men! Oh cruel Mothers that beat the children because they cannot disgest the strongest meat, the greatest mysteries! Nay ra<g ref="char:EOLhyphen"/>ther that force them to eat the Poyson of corrupt inv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>tion, instead of the sincere milk of that word, 1 <hi>Pet.</hi> 2. 2. It seemeth that all our Lords <q rend="margQuotes">Enemies are not yet put under his feet, they will not suffer him on whose Shoul<g ref="char:EOLhyphen"/>ders the Lord of Hosts hath laid the Government to ex<g ref="char:EOLhyphen"/>ercise it, <hi>Isa.</hi> 9. 6. The Kingdom and Dominion and great<g ref="char:EOLhyphen"/>ness of the Kingdome under the whole Heaven, is not yet given to the people of the Saints of the most high, <hi>Dan.</hi> 7. 27. But they that wil live Godly in Christ Jesus, must stil suffer persecution.</q> Beloved in the Lord, though we believe ye are alwaies prepar'd to give a testimony to that Truth which ye have received, and are not <q rend="margQuotes">ashamed of the GOSPEL of CHRIST, which is the Pow<g ref="char:EOLhyphen"/>er of GOD to SALVATION; But can Glory in the CROSS of CHRIST:</q> Yet, lest the Day of Suffering should take ye at unawares, we have found in our hearts to sound this ALLARUM to you; <q rend="margQuotes">Take unto you therefore the whole ARMOUR of God, that ye may be able to withstand in the Evil Day, and having done all to stand, stand therefore, having your loynes girt about with truth, <bibl>
+                        <hi>Eph.</hi> 6. 13, 14.</bibl>
+                  </q>
+               </p>
+               <pb n="6" facs="tcp:117977:5"/>
+               <p>Labour to be setled and established in the truth, for error wil scarce give you constant comfort in a day of temptation, <hi>Having on the brest-plate of righteousness;</hi> for ye wil never suf<g ref="char:EOLhyphen"/>fer wel except ye have in you▪ <hi>The testimony of a good Conscience that in simplicity and Godly sincerity, not with fleshly wisdome, but by the grace of God ye have had your conversations in the world,</hi> 2 <hi>Cor.</hi> 1. 12. Then wil ye be <hi>as bold as Lyons, when ye have con<g ref="char:EOLhyphen"/>sciences void of offence towards God and men,</hi> Act. 24. 16. <hi>And your feet shod with the preperations of the Gospel of peace.</hi> A bold confession of the truth is better Armour against persecution than an hypocriticall silence: <hi>Take the shield of Faith,</hi> for that <hi>overcometh the World, and quencheth the fierry darts of the wicked one. Take the Helmet of salvation, the blessed hope, and glorious appearing of the gread God, and our saviour Iesus</hi> wil superabun<g ref="char:EOLhyphen"/>dantly recompence all your sufferings; <hi>The sword of the Spirit, which is the word of God.</hi> The Sheep of Christ <hi>know not the voice of strangers</hi> Joh. 10. 45. Hearken diligently to the voice of Christ, and be affraid of the devised expressions and con<g ref="char:EOLhyphen"/>sequences of men, <hi>Praying alwayes, &amp;c.</hi> for all Saints, for them that suffer, for them that are in danger of suffering; pray that the cry of blood which hath been shed for Religion, may not be made louder; pray that the guilt of the former mur<g ref="char:EOLhyphen"/>thers and oppressions for conscience, may not again be brought upon this our poor wearie <hi>England;</hi> prepare your selves for the battel of persecution, and if the Lord shall ac<g ref="char:EOLhyphen"/>count you worthy to suffer for his sake, <hi>Reioyce and be excee<g ref="char:EOLhyphen"/>ceeding glad, for great is your reward in Heaven.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117977:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
